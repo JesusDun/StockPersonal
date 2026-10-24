@@ -1,0 +1,19 @@
+{
+  "name": "Stock Personal",
+  "short_name": "Stock",
+  "description": "Tu inventario personal para cuidar de ti.",
+  "lang": "es-MX",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111622",
+  "theme_color": "#111622",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
